@@ -1,7 +1,5 @@
 # Blog Generator with LLaMA Model
 
-![App Preview](/Screenshot from 2024-06-13 14-40-51.png)
-
 This repository contains a Streamlit application that leverages the LLaMA model to generate blog posts based on a given topic, style, and word count. The app is designed to be user-friendly and is suitable for generating content tailored to specific audiences, such as researchers, data scientists, and the general public.
 
 ## Features
@@ -30,12 +28,7 @@ streamlit run app.py
 
 Navigate to `http://localhost:8501` in your web browser to view and interact with the app.
 
-## Preview
 
-Here is a preview of the app:
-
-![App Preview](LLM-Blog-Generator/Screenshot from 2024-06-13 14-40-51.png)
-Replace `images/app_preview.png` with the actual path to the screenshot of your app stored in your repository.
 
 ## Contributions
 
